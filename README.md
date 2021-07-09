@@ -1,4 +1,4 @@
-[![Header](./assets/images/header.jpeg)](https://himanshu0809.github.io/my-portfolio/)
+[![Himanshu's GitHub Banner](./assets/images/header.jpeg)](https://himanshu0809.github.io/my-portfolio/)
 
 # Hello, folks! <img src="./assets/gifs/wave.gif" width="30px">
 I’m Himanshu Gupta, an experienced software engineer who specializes in web development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
@@ -15,14 +15,12 @@ Want to know more about me? [Check out my portfolio](https://himanshu0809.github
 <img align="right" width="250" height="150" alt="Postman" src="./assets/images/postman.png" />
 
 - 🚀 &nbsp; I’m currently working as Software Development Engineer at Postman. 
-<br/>
-
-    I am working on Postman API's Documentation feature which automatically generates consumable API documentation that users can share between themselves and publicly.
-
-    I am also working on serving API Docs publicly over custom domains by maintaining ACME generated certificates for the domains.
-<br/>
-
-    **Tech Stack:** React, Javascript, Typescript, ElectronJS, StencilJS, Puppeteer, NodeJS, SailsJS, MySQL, AWS
+<br/><br/>
+I am working on Postman API's Documentation feature which automatically generates consumable API documentation that users can share between themselves and publicly.
+<br/><br/>
+I am also working on serving API Docs publicly over custom domains by maintaining ACME generated certificates for the domains.
+<br/><br/>
+**Tech Stack:** React, Javascript, Typescript, ElectronJS, StencilJS, Puppeteer, NodeJS, SailsJS, MySQL, AWS
 </div>
 
 - 👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript
