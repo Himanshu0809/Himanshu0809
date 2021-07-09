@@ -1,7 +1,10 @@
+<div align="center">
+
 [![Himanshu's GitHub Banner](./assets/images/header.jpeg)](https://himanshu0809.github.io/my-portfolio/)
+</div>
 
 # Hello, folks! <img src="./assets/gifs/wave.gif" width="30px">
-I’m Himanshu Gupta, an experienced software engineer who specializes in web development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Himanshu Gupta, an experienced **Software Development Engineer** who specializes in web development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 Want to know more about me? [Check out my portfolio](https://himanshu0809.github.io/my-portfolio/).
 
@@ -14,7 +17,7 @@ Want to know more about me? [Check out my portfolio](https://himanshu0809.github
 <div>
 <img align="right" width="250" height="150" alt="Postman" src="./assets/images/postman.png" />
 
-- 🚀 &nbsp; I’m currently working as Software Development Engineer at Postman. 
+- 🚀 &nbsp; I’m currently working as **Software Development Engineer** at ***Postman***. 
 <br/><br/>
 I am working on Postman API's Documentation feature which automatically generates consumable API documentation that users can share between themselves and publicly.
 <br/><br/>
@@ -24,7 +27,7 @@ I am also working on serving API Docs publicly over custom domains by maintainin
 </div>
 
 - 👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript
-- :eye: &nbsp; Hidden Project: [coursekingdom.xyz](https://www.coursekingdom.xyz)
+- :eye: &nbsp; Hidden Project: **[coursekingdom.xyz](https://www.coursekingdom.xyz)**
   <br/>
 ### **Languages and Tools:**
 <p align="center">
@@ -65,6 +68,7 @@ I am also working on serving API Docs publicly over custom domains by maintainin
 [![Instagram Badge](https://img.shields.io/badge/-himanshu0781-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/himanshu0781/)](https://www.instagram.com/himanshu0781/)
 [![Facebook Badge](https://img.shields.io/badge/-himanshu0781-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/himanshu0781/)](https://www.facebook.com/himanshu0781/)
 [![Twitter Badge](https://img.shields.io/badge/-Himanshu_882-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Himanshu_882)
+[![Telegram Badge](https://img.shields.io/badge/-Himan7781-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Himan7781)
 
 <div align="center">
 
